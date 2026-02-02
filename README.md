@@ -1,11 +1,37 @@
-# Poland-economy-refugees-analysis-
-Analysis of Poland's economic indicators after the Ukraine war and refugee inflows using Python, Pandas, and data visualization. 
 # Poland Economic Impact of Ukraine War
 
-This project analyzes how Poland's economy changed after the start of the Ukraine war,
-with a focus on GDP, inflation, and refugee inflows.
+This project analyzes how Poland's economy changed after the start of the Ukraine war in 2022,
+with a focus on GDP, inflation, and refugee inflows from Ukraine.
 
-## Structure
-- data/ → datasets (Eurostat, UNHCR)
-- notebooks/ → Jupyter notebook with Python analysis
+The goal of this project is to demonstrate data analysis skills using real-world economic and social data.
+
+## Research Question
+How did key economic indicators in Poland change after the outbreak of the Ukraine war and the arrival of refugees?
+
+## Data Sources
+- Eurostat: GDP and inflation data
+- UNHCR: Ukrainian refugee inflows to Poland
+
+## Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Project Structure
+- data/ → datasets used in the analysis
+- notebooks/ → Jupyter notebook with Python code and analysis
 - requirements.txt → Python libraries used
+
+## Key Topics Covered
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Time series visualization
+- Correlation analysis
+- Economic interpretation of results
+
+## Notes
+This project is for educational and portfolio purposes.
+Correlation does not imply causation.
