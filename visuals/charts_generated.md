@@ -18,7 +18,9 @@ Despite the geopolitical shock, GDP growth remained positive in 2022 and 2023, s
 
 ### 📊 Inflation Trend
 Inflation increased significantly post‑2022, driven largely by energy and supply shocks rather than primarily by migration dynamics.
+<img width="696" height="479" alt="Unknown-3" src="https://github.com/user-attachments/assets/fefba48d-940b-4c3f-9a3a-f68408f3febf" />
 
 
 ### 📉 Correlation Between Refugees and GDP Growth
 A scatter plot was generated to show the relationship between refugee inflows and GDP growth. This analysis does not imply causation, but provides exploratory insight.
+<img width="544" height="479" alt="Unknown-4" src="https://github.com/user-attachments/assets/3899d0f2-bb28-4b19-9f3f-be762a00bb9f" />
