@@ -1,6 +1,7 @@
-# Poland Economic Impact of the Ukraine War
-This project analyzes how Poland's economy changed after the start of the Ukraine war in 2022, with a focus on GDP growth, inflation, and refugee inflows from Ukraine.
-The goal of this project is to demonstrate data analysis skills using real-world economic and social data.
+# Economic Impact of Ukrainian Refugees on Poland’s Economy
+
+This project investigates the economic effects of the inflow of Ukrainian refugees on Poland’s economy following the full-scale invasion of Ukraine in 2022. Using publicly available data and economic indicators, this analysis explores how refugee inflows influenced GDP, labor market outcomes, employment rates, and fiscal contributions in Poland.  
+The analysis combines data processing, visual exploration, and interpretation of findings in an economic context.
 
 ## Open the Notebook
 You can open and run the analysis notebook in Google Colab:
@@ -12,6 +13,25 @@ How did key economic indicators in Poland change after the outbreak of the Ukrai
 ## Data Sources
 - Eurostat: GDP growth and inflation data
 - UNHCR: Ukrainian refugee inflows to Poland
+
+## Methodology
+
+This analysis includes:
+
+1. **Data Cleaning & Preprocessing**  
+   - Standardization of economic and labour market time series  
+   - Handling of missing values and normalization  
+
+2. **Descriptive Analysis**  
+   - Time trends for GDP and employment indicators  
+   - Cross-series visualization of refugee inflows versus economic outcomes  
+
+3. **Comparative Insights**  
+   - Comparisons between 2023 and 2024 trends  
+   - Contextual interpretation relative to published studies  
+
+4. **Economic Interpretation**  
+   - Assessment of how integration policies, labor participation, and consumption contributed to growth
 
 ## Tools and Technologies
 - Python
@@ -28,13 +48,5 @@ How did key economic indicators in Poland change after the outbreak of the Ukrai
 - `conclusions/` → economic interpretation  
 - `requirements.txt` → Python libraries used  
 
-## Key Topics Covered
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Time series visualization  
-- Correlation analysis  
-- Economic interpretation of results  
 
-## Notes
-This project is for educational and portfolio purposes.  
 
