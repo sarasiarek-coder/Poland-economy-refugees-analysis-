@@ -10,9 +10,13 @@ https://colab.research.google.com/github/sarasiarek-coder/Poland-economy-refugee
 ## Research Question
 How did key economic indicators in Poland change after the outbreak of the Ukraine war and the arrival of Ukrainian refugees?
 
-## Data Sources
-- Eurostat: GDP growth and inflation data
-- UNHCR: Ukrainian refugee inflows to Poland
+## Data Sources  
+-UNHCR Reports:    
+https://www.unhcr.org/europe/news/press-releases/refugees-generated-stunning-2-7-percent-poland-s-gdp-2024-study-shows  
+-Eurostat: GDP, employment, labor market indicators (2022–2023)  
+https://ec.europa.eu/eurostat  
+-Polskie Radio Report: refugee employment and integration rates  
+https://www.polskieradio.pl/395/7786/artykul/3536467,ukrainian-refugees-give-major-boost-to-polish-economy-study-finds    
 
 ## Methodology
 
@@ -31,7 +35,21 @@ This analysis includes:
    - Contextual interpretation relative to published studies  
 
 4. **Economic Interpretation**  
-   - Assessment of how integration policies, labor participation, and consumption contributed to growth
+   - Assessment of how integration policies, labor participation, and consumption contributed to growth  
+     
+## Key Findings
+
+- **GDP Contribution:** Refugees contributed significantly to Poland's GDP, with estimates around 2.7% in 2024.  
+- **Labor Market Integration:** Employment among refugees increased from 61% in 2022 to ~69% in 2023, approaching native employment rates.  
+- **Productivity & Consumption:** Refugees contributed both as labor supply and as consumers, stimulating domestic demand.  
+- **Policy Implications:** Early labor market access and recognition of qualifications enhance productivity and economic impact.
+
+## Interpretation & Policy Context
+
+The analysis shows that refugees can have a positive net economic impact when integration into labor markets is supported. Implications for policymakers include:  
+- Promote early labor market entry for refugees  
+- Reduce barriers related to language and qualification recognition  
+- Support programs that enhance productivity and consumption contribution  
 
 ## Tools and Technologies
 - Python
