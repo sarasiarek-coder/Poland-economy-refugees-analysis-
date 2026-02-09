@@ -4,7 +4,7 @@ The goal of this project is to demonstrate data analysis skills using real-world
 
 ## Open the Notebook
 You can open and run the analysis notebook in Google Colab:
-(https://colab.research.google.com/github/sarasiarek-coder/Poland-economy-refugees-analysis-/blob/main/notebooks/poland_ukraine_war_analysis.ipynb)
+https://colab.research.google.com/github/sarasiarek-coder/Poland-economy-refugees-analysis-/blob/main/notebooks/poland_ukraine_war_analysis.ipynb
 
 ## Research Question
 How did key economic indicators in Poland change after the outbreak of the Ukraine war and the arrival of Ukrainian refugees?
