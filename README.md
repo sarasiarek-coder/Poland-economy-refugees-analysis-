@@ -3,7 +3,7 @@ This project analyzes how Poland's economy changed after the start of the Ukrain
 The goal of this project is to demonstrate data analysis skills using real-world economic and social data.
 
 ## Open the Notebook
-You can open and run the analysis notebook in **Google Colab**:
+You can open and run the analysis notebook in Google Colab:
 (https://colab.research.google.com/github/sarasiarek-coder/Poland-economy-refugees-analysis-/blob/main/notebooks/poland_ukraine_war_analysis.ipynb)
 
 ## Research Question
