@@ -23,7 +23,7 @@ How did key economic indicators in Poland change after the outbreak of the Ukrai
 
 ## Project Structure
 - `data/` → datasets used in the analysis  
-- `notebooks/` → Jupyter notebook with Python code and analysis  
+- `notebooks/` → Google Colab notebook with Python code and analysis  
 - `visuals/` → description of generated charts  
 - `conclusions/` → economic interpretation  
 - `requirements.txt` → Python libraries used  
