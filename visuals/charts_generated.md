@@ -28,10 +28,32 @@ Inflation spiked after 2022, but research indicates that this was largely due to
 ### Correlation Between Refugees and GDP Growth
 <img width="544" height="479" alt="Unknown-4" src="https://github.com/user-attachments/assets/3899d0f2-bb28-4b19-9f3f-be762a00bb9f" />
 
+This chart illustrates the relationship between the number of Ukrainian refugees 
+in Poland and the country's GDP growth over the years 2019–2023. 
 
+Observations:
+- A positive correlation suggests that the refugee inflow did not negatively affect GDP growth.
+- The trend indicates that the Polish economy was able to absorb the additional population 
+  and maintain economic growth.
 ### Employment Rate Trends in Poland
+<img width="865" height="479" alt="Unknown-5" src="https://github.com/user-attachments/assets/2ebf96f5-4299-43eb-a335-900be53d089a" />
 
+This line chart shows the evolution of total, male, and female employment rates in Poland. 
+The red dashed line marks 2022, the year of the large Ukrainian refugee influx.
+
+Observations:
+- Employment rates increased gradually from 2019 to 2023, without significant decline after 2022.
+- Male and female employment trends follow a similar upward pattern.
+- This suggests that the Polish labor market continued to absorb labor despite the influx of refugees.
 
 ### Unemployment Rate in Poland
+<img width="856" height="479" alt="Unknown-6" src="https://github.com/user-attachments/assets/337791aa-70c4-4885-9866-b9332be84281" />
 
+This line chart shows the unemployment rate over the period 2019–2023. 
+The red dashed line indicates 2022, highlighting the start of the refugee inflow.
+
+Observations:
+- Unemployment remained stable or slightly decreased after 2022, despite an increased labor force.
+- The trend indicates that the influx of refugees did not negatively affect the overall unemployment rate.
+- This supports the conclusion that the labor market adapted effectively to the population increase.
 
