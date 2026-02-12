@@ -1,48 +1,41 @@
 # Economic Impact of Ukrainian Refugees on Poland’s Economy
 
-This project investigates the economic effects of the inflow of Ukrainian refugees on Poland’s economy following the full-scale invasion of Ukraine in 2022. Using publicly available data and economic indicators, this analysis explores how refugee inflows influenced GDP, labor market outcomes, employment rates, and fiscal contributions in Poland.  
-The analysis combines data processing, visual exploration, and interpretation of findings in an economic context.
+This project analyzes the evolution of key Polish macroeconomic indicators following the outbreak of the war in Ukraine in 2022 and the subsequent inflow of Ukrainian refugees into Poland.
+The objective is to explore whether and how refugee inflows are associated with changes in GDP growth, inflation, and labor market dynamics.
+The analysis is conducted using publicly available macroeconomic data and refugee statistics, with a focus on descriptive analysis and data visualization.
 
 ## Open the Notebook
 You can open and run the analysis notebook in Google Colab:
 https://colab.research.google.com/github/sarasiarek-coder/Poland-economy-refugees-analysis-/blob/main/notebooks/poland_ukraine_war_analysis.ipynb
 
 ## Research Question
-How did key economic indicators in Poland change after the outbreak of the Ukraine war and the arrival of Ukrainian refugees?
-
+How did key economic indicators in Poland change after the outbreak of the Ukraine war and the arrival of Ukrainian refugees?  
+How did Poland’s GDP evolve after 2022?  
+Is there a visible relationship between refugee inflows and economic growth?  
+Did inflation or labor market indicators show structural changes during the same period?  
+What preliminary insights can be derived from the observed data trends?  
+  
 ## Data Sources  
--UNHCR Reports:    
-https://www.unhcr.org/europe/news/press-releases/refugees-generated-stunning-2-7-percent-poland-s-gdp-2024-study-shows  
--Eurostat: GDP, employment, labor market indicators (2022–2023)  
-https://ec.europa.eu/eurostat  
--Polskie Radio Report: refugee employment and integration rates  
-https://www.polskieradio.pl/395/7786/artykul/3536467,ukrainian-refugees-give-major-boost-to-polish-economy-study-finds    
+The analysis is based on publicly available data from:  
+World Bank  
+Eurostat  
+Polish Central Statistical Office (GUS)  
+UNHCR refugee statistics    
 
 ## Methodology
 
-This analysis includes:
-
-1. **Data Cleaning & Preprocessing**  
-   - Standardization of economic and labour market time series  
-   - Handling of missing values and normalization  
-
-2. **Descriptive Analysis**  
-   - Time trends for GDP and employment indicators  
-   - Cross-series visualization of refugee inflows versus economic outcomes  
-
-3. **Comparative Insights**  
-   - Comparisons between 2023 and 2024 trends  
-   - Contextual interpretation relative to published studies  
-
-4. **Economic Interpretation**  
-   - Assessment of how integration policies, labor participation, and consumption contributed to growth  
+The project follows a structured data analysis workflow:  
+-Data collection from official macroeconomic databases  
+-Data cleaning and preprocessing  
+-Descriptive statistical analysis  
+-Time-series visualization  
+-Interpretation of trends and economic implications    
      
 ## Key Findings
 
-- **GDP Contribution:** Refugees contributed significantly to Poland's GDP, with estimates around 2.7% in 2024.  
-- **Labor Market Integration:** Employment among refugees increased from 61% in 2022 to ~69% in 2023, approaching native employment rates.  
-- **Productivity & Consumption:** Refugees contributed both as labor supply and as consumers, stimulating domestic demand.  
-- **Policy Implications:** Early labor market access and recognition of qualifications enhance productivity and economic impact.
+-Poland experienced strong macroeconomic adjustments after 2022, with visible shifts in inflation and GDP growth dynamics.  
+-Refugee inflows coincided with significant economic changes, particularly in labor market participation.  
+-The data suggest that refugee integration may have had measurable economic relevance, although external macroeconomic shocks must also be considered.  
 
 ## Interpretation & Policy Context
 
